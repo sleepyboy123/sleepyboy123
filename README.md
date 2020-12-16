@@ -1,7 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Matthew 👋
 
-<!--
-**sleepyboy123/sleepyboy123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Software Developer & Cyber Security Student
 
 Here are some ideas to get you started:
 
