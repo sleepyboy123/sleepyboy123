@@ -1,6 +1,6 @@
 # Hi there, I'm Matthew 👋
 
-## I'm a Software Developer & Cyber Security Student
+## I'm a Cyber Security System's Engineer and a Software Developer in my free time
 
 Here are some ideas to get you started:
 
